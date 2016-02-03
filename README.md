@@ -5,9 +5,10 @@ Please follow these steps before the first lecture. If you get stuck at any step
 
 ## Software
 
-1. Install the following software. If you already have R/RStudio installed, please ensure you have the latest version.
+1. Install the following software. If you already have R/RStudio installed, please re-install to the lastest version.
     * [R](https://cran.r-project.org/) programming language and software environment for statistical computing and graphics
-    * [RStudio (preview version)](https://www.rstudio.com/products/rstudio/download/preview/) open source integrated development environment (IDE) for R 
+    * [RStudio (preview version)](https://www.rstudio.com/products/rstudio/download/preview/) open source integrated development environment (IDE) for R.
+      * On Macs, when prompted to install command line developper tools, select "Install"
     * LaTeX word processor and document markup language:
       + [MacTeX](https://tug.org/mactex/downloading.html) for Mac (2.5GB)
       + [MiKTeX](http://miktex.org/download) for Windows (176MB)
