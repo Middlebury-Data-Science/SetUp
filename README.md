@@ -5,7 +5,7 @@ Please follow these steps to get set up to take this class:
 
 ## Software
 
-Install the following software. Please ensure your versions are upto date if already have them installed.
+Install the following software. Please ensure your versions are up to date if already have them installed.
 
 * [R](https://cran.r-project.org/) programming language and software environment for statistical computing and graphics
 * [RStudio (preview version)](https://www.rstudio.com/products/rstudio/download/preview/) open source integrated development environment (IDE) for R 
@@ -39,7 +39,7 @@ A PDF document should pop-up.
 GitHub is a web-based Git repository hosting system.
 
 * Go to [GitHub](https://github.com/), create an account using your `@middlebury.edu` account, and verify your email.
-* [Email me](mailto:aykim@middlebury.edu) your GitHub login name. 
+* Email me `aykim@middlebury.edu` your GitHub login name. 
 * Edit your profile:
     + Change your profile picture to a cropped picture with your face (this will help me learn your names faster)
     + (Optional) Add your personal email
