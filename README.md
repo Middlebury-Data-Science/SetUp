@@ -1,6 +1,6 @@
 # Setting Up
 
-Please follow these steps to get set up to take this class.
+Please follow these steps before the first lecture. If you get stuck at any step, please come see me after class.
 
 
 ## Software
@@ -50,7 +50,7 @@ GitHub is a web-based Git repository hosting system.
 
 ## RStudio and GitHub
 
-In RStudio, follow the steps on [RStudio and GitHub](http://www.r-bloggers.com/rstudio-and-github/) upto and including the
+In RStudio, follow the steps on [RStudio and GitHub](http://www.r-bloggers.com/rstudio-and-github/) up to and including the
 ```
 git config --global user.email "mail@ewenharrison.com"
 git config --global user.name "ewenharrison"
