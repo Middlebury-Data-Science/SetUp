@@ -8,9 +8,9 @@ Please follow these steps before the first lecture. If you get stuck at any step
 1. Install the following software. If you already have R/RStudio installed, please ensure you have the latest version.
     * [R](https://cran.r-project.org/) programming language and software environment for statistical computing and graphics
     * [RStudio (preview version)](https://www.rstudio.com/products/rstudio/download/preview/) open source integrated development environment (IDE) for R 
-    * LaTeX word processor and document markup language
-    + [MacTeX](https://tug.org/mactex/downloading.html) for Mac (2.5GB)
-    + [MiKTeX](http://miktex.org/download) for Windows (176MB)
+    * LaTeX word processor and document markup language:
+      + [MacTeX](https://tug.org/mactex/downloading.html) for Mac (2.5GB)
+      + [MiKTeX](http://miktex.org/download) for Windows (176MB)
     * [Git](https://git-scm.com/) open source distributed version control system
 2. Ensure you can login to RStudio Server from your browser at [`https://rstudio.middlebury.edu`](https://rstudio.middlebury.edu/) (note the `https`) or simply [`go/rstudio`](go/rstudio). If you are off-campus you must first log into the [Middlebury VPN](http://mediawiki.middlebury.edu/wiki/LIS/Off-campus_Access).
 
