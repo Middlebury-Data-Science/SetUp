@@ -1,9 +1,11 @@
 # Setting Up
-Please follow these steps to get set up to take this class
+
+Please follow these steps to get set up to take this class:
 
 
 ## Software
-Install the following software if you haven't already
+
+Install the following software. Please ensure your versions are upto date if already have them installed.
 
 * [R](https://cran.r-project.org/) programming language and software environment for statistical computing and graphics
 * [RStudio (preview version)](https://www.rstudio.com/products/rstudio/download/preview/) open source integrated development environment (IDE) for R 
@@ -13,6 +15,15 @@ Install the following software if you haven't already
 * [Git](https://git-scm.com/) open source distributed version control system
 
 
+## Installing Packages
+
+We now describe how to install R packages, or extensions to R.
+* In one of the panels in RStudio, there is a tab *Packages*.
+* Click *Install* and in the *Packages* field type `ggplot2 dplyr` to install both those packages. 
+* If prompted to restart R, say yes.
+* In another panel, there is a tab *Console*. Type `library(ggplot2)` and `library(dplyr)` and ensure there are no error messages.
+
+
 ## Testing R Markdown
 
 1. Open RStudio and starting in the menu bar, go to *File* -> *New File* -> *R Markdown...* -> *OK*.
@@ -20,7 +31,7 @@ Install the following software if you haven't already
 3. Give the file a name and save
 4. If prompted to install any packages, say yes.
 
-A PDF document view should pop-up.
+A PDF document should pop-up.
 
 
 ## GitHub
