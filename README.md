@@ -6,14 +6,25 @@ Please follow these steps before the first lecture. If you get stuck at any step
 ## Software
 
 1. Install the following software. If you already have R/RStudio installed, please re-install to the lastest version.
-    * [R](https://cran.r-project.org/) programming language and software environment for statistical computing and graphics
-    * [RStudio (preview version)](https://www.rstudio.com/products/rstudio/download/preview/) open source integrated development environment (IDE) for R.
-      * On Macs, when prompted to install command line developper tools, select "Install"
     * LaTeX word processor and document markup language:
       + [MacTeX](https://tug.org/mactex/downloading.html) for Mac (2.5GB)
       + [MiKTeX](http://miktex.org/download) for Windows (176MB)
+    * [R](https://cran.r-project.org/) programming language and software environment for statistical computing and graphics
+    * [RStudio (preview version)](https://www.rstudio.com/products/rstudio/download/preview/) open source integrated development environment (IDE) for R.
+      * On Macs, when prompted to install command line developper tools, select "Install"
     * [Git](https://git-scm.com/) open source distributed version control system
 2. Ensure you can login to RStudio Server from your browser at [`https://rstudio.middlebury.edu`](https://rstudio.middlebury.edu/) (note the `https`) or simply [`go/rstudio`](go/rstudio). If you are off-campus you must first log into the [Middlebury VPN](http://mediawiki.middlebury.edu/wiki/LIS/Off-campus_Access).
+
+
+## Testing R Markdown
+
+1. Open RStudio and starting in the menu bar, go to *File* -> *New File* -> *R Markdown...*
+1. If prompted to install any packages, say yes.
+1. Give it an arbitrary title and select the PDF output format.
+1. A document `Untitled1` should pop-up. In that panel, click on *Knit PDF*.
+1. Give the file a name and save
+
+A PDF document should pop-up.
 
 
 ## Installing Packages
@@ -22,17 +33,7 @@ We now describe how to install R packages, or extensions to R.
 * In one of the panels in RStudio, there is a tab *Packages*.
 * Click *Install* and in the *Packages* field type `ggplot2 dplyr` to install both those packages. 
 * If prompted to restart R, say yes.
-* In another panel, there is a tab *Console*. Type `library(ggplot2)` and `library(dplyr)` and ensure there are no error messages.
-
-
-## Testing R Markdown
-
-1. Open RStudio and starting in the menu bar, go to *File* -> *New File* -> *R Markdown...* -> *OK*.
-2. A document `Untitled1` should pop-up. In that panel, click on the arrow next to *Knit HTML* and select *Knit PDF*.
-3. Give the file a name and save
-4. If prompted to install any packages, say yes.
-
-A PDF document should pop-up.
+* In another panel, there is a tab *Console*. Type `library(ggplot2)` and `library(dplyr)` and ensure the resulting messages does not contain any errors.
 
 
 ## GitHub
@@ -51,7 +52,11 @@ GitHub is a web-based Git repository hosting system.
 
 ## RStudio and GitHub
 
-In RStudio, follow the steps on [RStudio and GitHub](http://www.r-bloggers.com/rstudio-and-github/) up to and including the
+In the RStudio menu bar, go to *File* -> *New Project...* -> Don't save current workspace -> *New Directory* -> *Empty Project* -> give it an arbitrary directory name and save it any place you choose -> *Create Project*
+
+* 
+
+follow the steps on [RStudio and GitHub](http://www.r-bloggers.com/rstudio-and-github/) up to and including the
 ```
 git config --global user.email "mail@ewenharrison.com"
 git config --global user.name "ewenharrison"
