@@ -58,3 +58,6 @@ git config --global user.name "ewenharrison"
 step, but replacing `mail@ewenharrison.com` with your `@middlebury.edu` email and `ewenharrison` with your GitHub login.
 
 
+## Survey
+
+Please complete the following [survey](https://docs.google.com/forms/d/1MgV-LbQsYvE4GgAE8hMARHEGu6eckE-cvqbZTQ9BbWU/edit?usp=forms_home).
