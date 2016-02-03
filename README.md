@@ -1,6 +1,6 @@
 # Setting Up
 
-Please follow these steps to get set up to take this class:
+Please follow these steps to get set up to take this class.
 
 
 ## Software
