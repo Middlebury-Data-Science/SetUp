@@ -5,7 +5,7 @@ Please follow these steps before the first lecture. If you get stuck at any step
 
 ## Software
 
-1. Install the following software. If you already have R/RStudio installed, please re-install to the lastest version.
+1. Install the following software. If you already have R/RStudio installed, please re-install both.
     * LaTeX word processor and document markup language:
       + [MacTeX](https://tug.org/mactex/downloading.html) for Mac (2.5GB)
       + [MiKTeX](http://miktex.org/download) for Windows (176MB)
@@ -41,7 +41,7 @@ We now describe how to install R packages, or extensions to R.
 GitHub is a web-based Git repository hosting system.
 
 * Go to [GitHub](https://github.com/), create an account using your `@middlebury.edu` account, and verify your email.
-<!---* Email me `aykim@middlebury.edu` your GitHub login name. --->
+[comment]: <> (* Email me `aykim@middlebury.edu` your GitHub login name.)
 * Edit your profile:
     + Change your profile picture to a cropped picture of you (this will help me learn your names faster)
     + (Optional) Add your personal email
@@ -53,7 +53,6 @@ GitHub is a web-based Git repository hosting system.
 ## RStudio and GitHub
 
 * In the RStudio menu bar, go to *File* -> *New Project...* -> If prompted, don't save current workspace -> *New Directory* -> *Empty Project* -> give it an arbitrary directory name and save it any place you choose -> *Create Project*
-
 * Follow the steps on [RStudio and GitHub](http://www.r-bloggers.com/rstudio-and-github/) up to and including the
 ```
 git config --global user.email "mail@ewenharrison.com"
