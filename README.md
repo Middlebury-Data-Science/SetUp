@@ -41,7 +41,7 @@ We now describe how to install R packages, or extensions to R.
 GitHub is a web-based Git repository hosting system.
 
 * Go to [GitHub](https://github.com/), create an account using your `@middlebury.edu` account, and verify your email.
-* Email me `aykim@middlebury.edu` your GitHub login name. 
+<!---* Email me `aykim@middlebury.edu` your GitHub login name. --->
 * Edit your profile:
     + Change your profile picture to a cropped picture of you (this will help me learn your names faster)
     + (Optional) Add your personal email
@@ -52,11 +52,9 @@ GitHub is a web-based Git repository hosting system.
 
 ## RStudio and GitHub
 
-In the RStudio menu bar, go to *File* -> *New Project...* -> Don't save current workspace -> *New Directory* -> *Empty Project* -> give it an arbitrary directory name and save it any place you choose -> *Create Project*
+* In the RStudio menu bar, go to *File* -> *New Project...* -> If prompted, don't save current workspace -> *New Directory* -> *Empty Project* -> give it an arbitrary directory name and save it any place you choose -> *Create Project*
 
-* 
-
-follow the steps on [RStudio and GitHub](http://www.r-bloggers.com/rstudio-and-github/) up to and including the
+* Follow the steps on [RStudio and GitHub](http://www.r-bloggers.com/rstudio-and-github/) up to and including the
 ```
 git config --global user.email "mail@ewenharrison.com"
 git config --global user.name "ewenharrison"
