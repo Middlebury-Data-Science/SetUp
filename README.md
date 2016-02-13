@@ -12,6 +12,7 @@ Please follow these steps before the first lecture. If you get stuck at any step
     * [R](https://cran.r-project.org/) programming language and software environment for statistical computing and graphics
     * [RStudio (preview version)](https://www.rstudio.com/products/rstudio/download/preview/) open source integrated development environment (IDE) for R.
       * On Macs, when prompted to install command line developper tools, select "Install"
+      * On Windows, you should get a similar prompt.
     * [Git](https://git-scm.com/) open source distributed version control system
 2. Ensure you can login to RStudio Server from your browser at [`https://rstudio.middlebury.edu`](https://rstudio.middlebury.edu/) (note the `https`) or simply [`go/rstudio`](go/rstudio). If you are off-campus you must first log into the [Middlebury VPN](http://mediawiki.middlebury.edu/wiki/LIS/Off-campus_Access).
 
@@ -29,7 +30,7 @@ A PDF document should pop-up.
 
 ## Installing Packages
 
-We now describe how to install R packages, or extensions to R.
+We now describe how to install R packages, or extensions to R, from the [CRAN repository of packages](https://cran.r-project.org/web/packages/available_packages_by_name.html). 
 * In one of the panels in RStudio, there is a tab *Packages*.
 * Click *Install* and in the *Packages* field type `ggplot2 dplyr` to install both those packages. 
 * If prompted to restart R, say yes.
@@ -41,7 +42,6 @@ We now describe how to install R packages, or extensions to R.
 GitHub is a web-based Git repository hosting system.
 
 * Go to [GitHub](https://github.com/), create an account using your `@middlebury.edu` account, and verify your email.
-[comment]: <> (* Email me `aykim@middlebury.edu` your GitHub login name.)
 * Edit your profile:
     + Change your profile picture to a cropped picture of you (this will help me learn your names faster)
     + (Optional) Add your personal email
@@ -63,4 +63,4 @@ step, but replacing `mail@ewenharrison.com` with your `@middlebury.edu` email an
 
 ## Survey
 
-Please complete the following [survey](https://docs.google.com/forms/d/1MgV-LbQsYvE4GgAE8hMARHEGu6eckE-cvqbZTQ9BbWU/edit?usp=forms_home).
+Finally, please complete the following [survey](https://docs.google.com/forms/d/1MgV-LbQsYvE4GgAE8hMARHEGu6eckE-cvqbZTQ9BbWU/edit?usp=forms_home).
