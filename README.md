@@ -44,6 +44,7 @@ GitHub is a web-based Git repository hosting system.
 * Go to [GitHub](https://github.com/), create an account using your `@middlebury.edu` account, and verify your email.
 * Edit your profile:
     + Change your profile picture to a cropped picture of you (this will help me learn your names faster)
+    + Add your name
     + (Optional) Add your personal email
 * Go to [GitHub Education](https://education.github.com/discount_requests/new)
     + Request an "Individual Account" discount
