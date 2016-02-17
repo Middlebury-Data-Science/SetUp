@@ -52,7 +52,9 @@ GitHub is a web-based Git repository hosting system.
 
 ## RStudio and GitHub
 
-* In the RStudio menu bar, go to *File* -> *New Project...* -> If prompted, don't save current workspace -> *New Directory* -> *Empty Project* -> give it an arbitrary directory name and save it any place you choose -> *Create Project*
+* In the RStudio menu bar, go to *File* -> *New Project...* -> If prompted, don't save current workspace -> *New Directory* -> *Empty Project*
+* Check the "Create a git repository" box.
+* Give it the project an arbitrary directory name and save it any place you choose -> *Create Project*
 * Follow the steps on [RStudio and GitHub](http://www.r-bloggers.com/rstudio-and-github/) up to and including the
 ```
 git config --global user.email "mail@ewenharrison.com"
